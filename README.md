@@ -2,6 +2,32 @@
 
 Un asistente virtual interactivo con interfaz gráfica 3D que combina reconocimiento de voz, síntesis de voz y procesamiento de lenguaje natural utilizando LM Studio.
 
+## Desarrollador
+- **Desarrollador**: [@NachoPDFDev](https://github.com/NachoPDFDev)
+- **Fecha de Inicio**: Marzo 2024
+- **Última Actualización**: Marzo 2024
+
+## Stack Tecnológico
+### Frontend
+- Python 3.x
+- Pygame (visualización 3D y GUI)
+- PIL (procesamiento de imágenes)
+
+### Backend & Procesamiento
+- LM Studio (modelo de lenguaje)
+- OpenAI API (integración con LM Studio)
+- NumPy (cálculos matemáticos)
+
+### Audio
+- PyTTSx3 (síntesis de voz)
+- SpeechRecognition (reconocimiento de voz)
+- Sounddevice (gestión de dispositivos de audio)
+
+### Herramientas de Desarrollo
+- Git (control de versiones)
+- Visual Studio Code (IDE recomendado)
+- PowerShell (scripting y ejecución)
+
 ## Características Principales
 
 ### Interfaz Visual

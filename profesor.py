@@ -1,3 +1,27 @@
+"""
+Profesor IA - Asistente Virtual Interactivo
+Desarrollado por @NachoPDFDev (https://github.com/NachoPDFDev)
+Marzo 2024
+
+Este módulo implementa un asistente virtual con una interfaz gráfica 3D única
+que utiliza una esfera neural interactiva. Combina reconocimiento de voz,
+síntesis de voz y procesamiento de lenguaje natural mediante LM Studio.
+
+Características principales:
+- Visualización 3D interactiva con esfera neural y animaciones
+- Reconocimiento y síntesis de voz en español
+- Integración con LM Studio para procesamiento de lenguaje
+- Sistema de perfiles de voz multiusuario
+- Interfaz adaptativa y personalizable
+
+Tecnologías:
+- Frontend: Python 3.x, Pygame, PIL
+- Backend: LM Studio, OpenAI API, NumPy
+- Audio: PyTTSx3, SpeechRecognition, Sounddevice
+
+Para más información, consulta el README.md del proyecto.
+"""
+
 import pygame
 import math
 import random
